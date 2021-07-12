@@ -31,7 +31,7 @@ IEZ: cin >> vert[r][k];
 cout << endl;
 for (r=0; r<4; r++)
 {
-    cout << endl<< sk[r]<< " vidçjâ atzîme ir " << vid[r] << " no atzimem:" << endl;
+    cout << endl<< sk[r]<< " vidÃ§jÃ¢ atzÃ®me ir " << vid[r] << " no atzimem:" << endl;
      k=0;
     do 
     {
