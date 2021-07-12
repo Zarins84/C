@@ -1,5 +1,3 @@
-4.Uzdevums!!
-
 #include <iostream>
 
 using namespace std;
