@@ -1,4 +1,4 @@
-//reizrçíina tabulas izveide 1
+//reizrÃ§Ã­ina tabulas izveide 1
 
 #include <iostream>
 
@@ -33,7 +33,7 @@ int main()
 
 
 
-//reizrçíina tabulas izveide 2
+//reizrÃ§Ã­ina tabulas izveide 2
 
 #include <iostream>
 
