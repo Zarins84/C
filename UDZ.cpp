@@ -28,7 +28,7 @@ using namespace std;
 int main()
 {
    int a,b;
-   cout << "ievadiet 2 skaitïus\n";
+   cout << "ievadiet 2 skaitÃ¯us\n";
    cin >> a >> b;
    double Y=a/b;
    cout << Y;
@@ -45,18 +45,18 @@ using namespace std;
 int main()
 {
    int a,b,c;
-   cout << "ievadiet 3 skaitïus\n";
+   cout << "ievadiet 3 skaitÃ¯us\n";
    cin >> a >> b >> c;
    if (a > b)
-   cout << a << " ir lielâkais skaitlis";
+   cout << a << " ir lielÃ¢kais skaitlis";
    else if (a > c)
-   cout << a << " ir lielâkais skaitlis";
+   cout << a << " ir lielÃ¢kais skaitlis";
    else if (b > c)
-   cout << b << " ir lielâkais skaitlis";
+   cout << b << " ir lielÃ¢kais skaitlis";
    else if (b > a)
-   cout << b << " ir lielâkais skaitlis";
+   cout << b << " ir lielÃ¢kais skaitlis";
    else if (c > a)
-   cout << c << " ir lelâkais skaitlis";
+   cout << c << " ir lelÃ¢kais skaitlis";
    else if (c > b)
-   cout << c << " ir lielâkais skaitlis";
+   cout << c << " ir lielÃ¢kais skaitlis";
 }
